@@ -1,5 +1,5 @@
 # husky-hacks
-Guess what ? You can use git hooks to make your coworker's living a nightmare. (or even open-source enthusiasts)
+Guess what ? You can use git hooks to make your coworker's life a nightmare. (or even open-source enthusiasts)
 
 # Explanation
 
